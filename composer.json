@@ -1,0 +1,17 @@
+{
+    "name": "llack/php-toss-stock",
+    "description": "토스증권 Open API 비공식 PHP 클라이언트. client_id/client_secret 두 개로 초기화하는 단일 클래스. PHP 5.6 ~ 8.x 지원.",
+    "type": "library",
+    "keywords": ["toss", "tossinvest", "toss-securities", "stock", "trading", "api", "korea", "rest"],
+    "homepage": "https://github.com/llack/php-toss-stock",
+    "require": {
+        "php": ">=5.6",
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Llack\\TossStock\\": "src/"
+        }
+    }
+}
