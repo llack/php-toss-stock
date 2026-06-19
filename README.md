@@ -187,7 +187,7 @@ php -S localhost:8000 test/playground.php
 
 ## 후원
 
-이 프로젝트가 도움이 되었다면 GitHub Sponsors 로 후원해 주세요. 🙏
+이 프로젝트가 도움이 되었다면 GitHub Sponsors 로 후원 부탁드립니다. 🙏
 
 ## 라이선스
 
